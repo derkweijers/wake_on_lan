@@ -3,17 +3,8 @@ coverage:
     project:
       default:
         target: auto
-      wake_on_lan:
-        target: auto
-        flags:
-          - wake_on_lan
     patch: off
     changes: off
-flags:
-  wake_on_lan:
-    paths:
-      - packages/wake_on_lan
-    carryforward: true
 comment:
   layout: "reach, diff, flags, files"
   behavior: default

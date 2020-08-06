@@ -23,5 +23,3 @@ jobs:
       uses: codecov/codecov-action@v1
       with:
         file: coverage/lcov.info
-        flags: wake_on_lan
-        name: wake_on_lan

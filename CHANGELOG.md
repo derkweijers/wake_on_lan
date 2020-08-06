@@ -1,3 +1,6 @@
+# 1.1.1+1
+- Updated README.md
+- Updated repository information
 # 1.1.1
 - Improved commenting
 - Added descriptors for all classes
