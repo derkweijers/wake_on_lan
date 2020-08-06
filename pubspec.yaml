@@ -1,6 +1,6 @@
 name: wake_on_lan
 description: Send wake on LAN magic packets to devices on your local network.
-version: 1.1.1
+version: 1.1.1+1
 homepage: https://github.com/CometTools/wake_on_lan
 repository: https://github.com/CometTools/wake_on_lan
 issue_tracker: https://github.com/CometTools/wake_on_lan/issues

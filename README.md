@@ -77,6 +77,6 @@ Because wake-on-LAN packets are sent over UDP, beyond the successful creation of
 
 [license-shield]: https://img.shields.io/github/license/CometTools/wake_on_lan?style=for-the-badge
 [codecov]: https://codecov.io/gh/CometTools/wake_on_lan
-[codecov-shield]: https://img.shields.io/codecov/c/gh/CometTools/wake_on_lan?flag=wake_on_lan&style=for-the-badge
+[codecov-shield]: https://img.shields.io/codecov/c/gh/CometTools/wake_on_lan?style=for-the-badge
 [pubdev]: https://pub.dev/packages/wake_on_lan/
 [pubdev-shield]: https://img.shields.io/pub/v/wake_on_lan.svg?style=for-the-badge
